@@ -4,7 +4,7 @@ Machine Learning Engineer II | 4+ years production experience | MS in ML @ UMD '
 
 Building production systems: Computer Vision • Multimodal LLMs • MLOps
 
-Shipped CV pipelines processing 50K+ items monthly at Entrupy. Built agentic LLM systems and federated learning platforms. Proficient in full ML stack from design to deployment.
+Shipped CV pipelines processing 50K+ items at Entrupy at 96% TPR at 5% FPR. Built agentic LLM systems and federated learning platforms. Proficient in full ML stack from design to deployment.
 
 **Featured:** [CAFBrain](https://github.com/NishchalMN/CAFBrain) • [FedMedVision](https://github.com/NishchalMN/FedMedVision) • [Scalable DBaaS](https://github.com/NishchalMN/Rideshare-Application)
 
@@ -22,7 +22,7 @@ Shipped CV pipelines processing 50K+ items monthly at Entrupy. Built agentic LLM
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-Open to full-time ML roles starting May 2026
+Open to full-time ML roles starting immediately.
 
 <div align="left">
   <a href="https://nishchal-mn.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
