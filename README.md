@@ -2,7 +2,7 @@
 
 Machine Learning Engineer II | 4+ years production experience | MS in ML @ UMD '26
 
-Building production systems: Computer Vision • Multimodal LLMs • MLOps
+Building scalable systems: Computer Vision • Multimodal LLMs • MLOps
 
 Shipped CV pipelines processing 50K+ items at Entrupy at 96% TPR at 5% FPR. Built agentic LLM systems and federated learning platforms. Proficient in full ML stack from design to deployment.
 
