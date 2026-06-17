@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Nishchal
 
-Machine Learning Engineer II | 4+ years production experience | MS in ML @ UMD '26
+Machine Learning Engineer II | 5 years production experience | MS in ML @ UMD '26
 
 Building scalable systems: Computer Vision • Multimodal LLMs • MLOps
 
