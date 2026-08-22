@@ -1,10 +1,10 @@
 ## Hi 👋, I'm Nishchal
 
-Machine Learning Engineer II | 5 years production experience | MS in ML @ UMD '26
+Data Scientist III | 5+ years production experience | ex Machine Learning Engineer II | MSML @ UMD '26
 
 Building scalable systems: Computer Vision • Multimodal LLMs • MLOps
 
-Shipped CV pipelines processing 150K+ luxury items at Entrupy at 96% TPR at 5% FPR. Built agentic RAG systems for multimodal documents, and architected auto-scaling inference on AWS EKS and Ray Cloud. Proficient in full ML stack from research to deployment.
+Shipped CV pipelines processing luxury items at Entrupy at 96% TPR at 5% FPR. Built agentic RAG systems for multimodal documents, and architected auto-scaling inference on AWS EKS and Ray Cloud. Proficient in full ML stack from research to deployment.
 
 ### Tech Stack
 
@@ -22,7 +22,5 @@ Shipped CV pipelines processing 150K+ luxury items at Entrupy at 96% TPR at 5% F
     <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
   </tr>
 </table>
-
-Open to full-time ML roles starting May 2026.
 
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://nishchal-mn.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nishchal-mn) [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nmarur21@umd.edu)
